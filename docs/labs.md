@@ -46,6 +46,17 @@ more information, see:
 * [Editor](https://jcspec.github.io/BuildUFace)
 * [GitHub](https://github.com/JCSPEC/BuildUFace)
 
+### Private Eye
+
+![Private Eye screenshot](/static/targets/privateeye/screenshot.png)
+
+This [Cornell University course project](https://makecode.com/courses/cornellMPS2018)
+uses MakeCode to program a robot to play the maze game. For 
+more information, see:
+
+* [Editor]
+* [GitHub](https://github.com/zh324/Private-Eye)
+
 ### Maker
 
 ![Maker editor screenshot](/static/targets/maker/screenshot.png)
